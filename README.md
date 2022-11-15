@@ -1,7 +1,13 @@
 # aws-lambda-formcontact
 Ejemplo de serverless framework en AWS para formulario de contacto
 
-# Instalación requeridas
+# Instalación requerida
+
+NodeJS
+Cuenta gratuita en AWS
+Configuración SES
+
+# Instalación y configuracion serverles y credenciales de AWS
 
 ```
 npm i -g serverless
