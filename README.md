@@ -3,9 +3,9 @@ Ejemplo de serverless framework en AWS para formulario de contacto
 
 # Instalación requerida
 
-NodeJS
-Cuenta gratuita en AWS
-Configuración SES
+- NodeJS
+- Cuenta gratuita en AWS
+- Configuración SES
 
 # Instalación, configuración serverless y credenciales de AWS
 
