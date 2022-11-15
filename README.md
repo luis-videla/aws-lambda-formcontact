@@ -7,7 +7,7 @@ NodeJS
 Cuenta gratuita en AWS
 Configuración SES
 
-# Instalación y configuracion serverles y credenciales de AWS
+# Instalación, configuración serverless y credenciales de AWS
 
 ```
 npm i -g serverless
